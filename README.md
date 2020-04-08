@@ -67,21 +67,26 @@
 ## MKS TFT how to update firmware and update picture
 - Download MKS TFT firmware(MKS TFT24 as example)
 - Copy ***.bin file,inset MKS TFT24 board,reset or repower on.(MksWifi.bin and picture and Font is also upgraded this way)
-  ![1_update_firmware](https://github.com/makerbase-mks/MKS-TFT24/blob/master/Picture/1_update_firmware.png "1_update_firmware")
+  ![1_update_firmware](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/1_update_firmware.png "1_update_firmware")
 
 ## How to buy the MKS TFT
 ### MKS TFT24
   https://www.aliexpress.com/item/32823840528.html?spm=2114.12010612.8148356.3.76653b06dVCu29
-  ![MKS_TFT24](https://github.com/makerbase-mks/MKS-TFT24/blob/master/Picture/MKS_TFT24.png "MKS_TFT24")
+  ![MKS_TFT24](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/MKS_TFT24.png "MKS_TFT24")
 ### MKS TFT28
   https://www.aliexpress.com/item/32823840528.html?spm=2114.12010612.8148356.3.76653b06dVCu29
-  ![MKS_TFT28](https://github.com/makerbase-mks/MKS-TFT24/blob/master/Picture/MKS_TFT28.png "MKS_TFT28")
+  ![MKS_TFT28](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/MKS_TFT28.png "MKS_TFT28")
 ### MKS TFT32
   https://www.aliexpress.com/item/32823840528.html?spm=2114.12010612.8148356.3.76653b06dVCu29
-  ![MKS_TFT32](https://github.com/makerbase-mks/MKS-TFT24/blob/master/Picture/MKS_TFT32.png "MKS_TFT32")
+  ![MKS_TFT32](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/MKS_TFT32.png "MKS_TFT32")
 ### MKS TFT35
   https://www.aliexpress.com/item/32823840528.html?spm=2114.12010612.8148356.3.76653b06dVCu29
-  ![MKS_TFT35](https://github.com/makerbase-mks/MKS-TFT24/blob/master/Picture/MKS_TFT35.png "MKS_TFT35")
+  ![MKS_TFT35](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/MKS_TFT35.png "MKS_TFT35")
 ### MKS TFT70
   https://www.aliexpress.com/item/32823840528.html?spm=2114.12010612.8148356.3.76653b06dVCu29
-  ![MKS_TFT70](https://github.com/makerbase-mks/MKS-TFT24/blob/master/Picture/MKS_TFT70.png "MKS_TFT70")
+  ![MKS_TFT70](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/MKS_TFT70.png "MKS_TFT70")
+  
+# Note
+- Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook and GitHub and YouTube. Thank you!
+![](https://github.com/makerbase-mks/MKS-Robin-Nano/blob/master/hardware/Image/MKS_FGA.png)
